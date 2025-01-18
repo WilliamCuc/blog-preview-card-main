@@ -11,6 +11,7 @@ Este proyecto es parte de un desafío de Frontend Mentor. El objetivo es constru
 📂 Estructura del Proyecto
 • /design: Contiene vistas previas de los diseños para dispositivos móviles y de escritorio.
 • /assets: Recursos optimizados, como imágenes necesarias para el proyecto.
+• /fonts: Fuentes utilizadas en el proyecto.
 • style-guide.md: Guía de estilos con detalles sobre colores, fuentes y espaciados.
 • index.html: Archivo principal con la estructura HTML del proyecto.
 • styles.css: Archivo con los estilos personalizados para el componente.
@@ -24,12 +25,13 @@ Este proyecto es parte de un desafío de Frontend Mentor. El objetivo es constru
 🌐 Deploy
 
 El proyecto está desplegado en Netlify.
+https://blogpreviewcardpj.netlify.app/
 
 ✨ Aprendizajes
 
 • Práctica de maquetación con HTML y CSS.
 • Ajuste de estilos para diferentes tamaños de pantalla.
-• Uso de propiedades CSS como flexbox y margin/padding.
+• Uso de propiedades CSS como flexbox.
 
 📸 Vista Previa
 ![](./images/screenshot.png)
