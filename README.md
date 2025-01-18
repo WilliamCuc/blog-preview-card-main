@@ -34,7 +34,7 @@ https://blogpreviewcardpj.netlify.app/
 • Uso de propiedades CSS como flexbox.
 
 📸 Vista Previa
-![](./images/screenshot.png)
+![](./assets/images/screenshot.png)
 
 📝 Créditos
 
